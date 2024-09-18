@@ -6,7 +6,7 @@
 
 bash
 Copy code
-# Project: Image Classification & Speech Recognition with CNNs and RNNs
+# Project: Image Classification Recogniiton with CNNs and RNNs
 
 ## Overview
 This project implements two models:
