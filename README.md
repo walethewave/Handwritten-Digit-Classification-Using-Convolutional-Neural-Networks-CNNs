@@ -11,21 +11,19 @@ Copy code
 ## Overview
 This project implements two models:
 1. **Image Classification** using **Convolutional Neural Networks (CNNs)**.
-2. **Speech Recognition** using **Recurrent Neural Networks (RNNs)** or **Long Short-Term Memory (LSTM)** networks.
+   
 
 Both models are trained to perform tasks like:
 - Image classification from datasets like **MNIST** (handwritten digits) or **CIFAR-10** (common objects).
-- Speech-to-text recognition for spoken commands or phrases.
+  
 
 ## Training the Model
 
 `
-Copy code
 
-This README provides a detailed explanat
-Here's the README content converted to Markdown format:
 
-```markdown
+:
+
 # Project: Image Classification & Speech Recognition with CNNs and RNNs
 
 ## Overview
