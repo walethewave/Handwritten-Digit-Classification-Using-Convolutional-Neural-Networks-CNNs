@@ -1,5 +1,12 @@
 ﻿# Handwritten-Digit-Classification-Using-Convolutional-Neural-Networks-CNNs
 
+## Dataset
+
+The dataset used for this project is the MNIST dataset in CSV format. Unfortunately, due to its size, it could not be uploaded to GitHub. You can download the dataset from the following link:
+
+[MNIST Dataset in CSV](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv/data)
+
+Please download the dataset and place it in the appropriate directory as specified in the project's instructions.
 
 
 
@@ -142,6 +149,14 @@ python train_model.py
 ## Contributors
 
 - Afolabi Olawale Goodluck
+
+## Dataset
+
+The dataset used for this project is the MNIST dataset in CSV format. Unfortunately, due to its size, it could not be uploaded to GitHub. You can download the dataset from the following link:
+
+[MNIST Dataset in CSV](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv/data)
+
+Please download the dataset and place it in the appropriate directory as specified in the project's instructions.
 
 This README provides a detailed explanation of the project, including the model training process, results, and setup instructions.
 ```
